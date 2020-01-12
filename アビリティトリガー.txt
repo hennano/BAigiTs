@@ -1,0 +1,7 @@
+常に			:init
+出した時		:onSquad
+死んだとき		:onDeath
+攻撃範囲内に入った時	:intoAttackRange
+攻撃があたった時	:hitAttack
+スキルを使った時	:useSkill
+攻撃を食らった時	:
